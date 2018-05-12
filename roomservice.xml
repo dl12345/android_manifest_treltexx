@@ -17,13 +17,11 @@
   <project name="dl12345/android_device_samsung_trelte-common" path="device/samsung/trelte-common" remote="dl12345"/>
   <project name="dl12345/android_vendor_samsung_treltexx" path="vendor/samsung/treltexx" remote="dl12345"/>
   <project name="dl12345/android_vendor_samsung_trelte-common" path="vendor/samsung/trelte-common" remote="dl12345"/>
+  <project name="dl12345/android_hardware_samsung" path="hardware/samsung" remote="dl12345"/>
   <project name="dl12345/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="dl12345"/>
   <project name="dl12345/android_hardware_samsung_slsi-cm_exynos5433" path="hardware/samsung_slsi-cm/exynos5433" remote="dl12345"/>  
-  <project name="dl12345/android_kernel_samsung_exynos5433" path="kernel/samsung/exynos5433" remote="dl12345"/>
   <project name="dl12345/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="dl12345"/>
-
-  <remove-project name="LineageOS/android_packages_apps_Dialer"/>
-  <project name="dl12345/android_packages_apps_Dialer" path="packages/apps/Dialer" remote="dl12345"/>
+  <project name="dl12345/android_kernel_samsung_exynos5433" path="kernel/samsung/exynos5433" remote="dl12345"/>
 
   <!-- LineageOS Repos -->
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="lineageos"/>
